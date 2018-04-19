@@ -1,0 +1,31 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+/.idea
+/.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.env
+.env.example
+        app/
+        artisan
+        bootstrap/
+        composer.json
+        composer.lock
+        config/
+        database/
+        laravel DB table migration in PHP.txt
+        package.json
+        phpunit.xml
+        public/
+        readme.md
+        resources/
+        routes/
+        server.php
+        storage/
+        tests/
+        webpack.mix.js
